@@ -9,6 +9,10 @@ References:
 
 - https://github.com/vitest-dev/vitest/issues/1148
 
+Try on stackblitz:
+
+- https://stackblitz.com/~/github.com/hi-ogawa/remix-vite-vitest-example
+
 ---
 
 # templates/unstable-vite
