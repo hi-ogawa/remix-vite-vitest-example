@@ -1,7 +1,13 @@
 Example to demonstrate workaround for common issues with setting up Vitest for Remix and Vite.
 
+Releveant issues:
+
 - https://github.com/remix-run/remix/issues/7918
 - https://github.com/remix-run/remix/issues/8094
+
+References:
+
+- https://github.com/vitest-dev/vitest/issues/1148
 
 ---
 

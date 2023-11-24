@@ -15,3 +15,4 @@ jobs:
           cache: pnpm
       - run: pnpm i
       - run: pnpm test
+      - run: pnpm typecheck
