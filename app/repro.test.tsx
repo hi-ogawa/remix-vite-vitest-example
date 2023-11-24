@@ -4,7 +4,9 @@ import { createRemixStub } from "@remix-run/testing";
 import { render, screen, waitFor } from "@testing-library/react";
 import { test, expect } from "vitest";
 
-test("renders loader data", async () => {
+// example from documentation
+// https://remix.run/docs/en/main/other-api/testing#example
+test("createRemixStub", async () => {
   // ⚠️ This would usually be a component you import from your app code
   function MyComponent() {
     const data = useLoaderData() as { message: string };
