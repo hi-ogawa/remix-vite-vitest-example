@@ -1,3 +1,10 @@
+Example to demonstrate workaround for common issues with setting up Vitest for Remix and Vite.
+
+- https://github.com/remix-run/remix/issues/7918
+- https://github.com/remix-run/remix/issues/8094
+
+---
+
 # templates/unstable-vite
 
 ⚠️ Remix support for Vite is unstable and not recommended for production.
