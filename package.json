@@ -25,6 +25,7 @@
     "@testing-library/react": "^14.1.2",
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
+    "@vitest/ui": "^0.34.6",
     "eslint": "^8.38.0",
     "happy-dom": "^12.10.3",
     "typescript": "^5.1.6",
@@ -34,5 +35,8 @@
   },
   "engines": {
     "node": ">=18.0.0"
+  },
+  "stackblitz": {
+    "startCommand": "pnpm test"
   }
 }
